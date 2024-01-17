@@ -1,0 +1,14 @@
+.divider {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-transform: uppercase;
+
+    &::after, &::before {
+        content: '';
+        display: block;
+        height: 2px;
+        background-color: #EAEAEA;
+        flex: 1;
+    }
+}
