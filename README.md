@@ -1,6 +1,6 @@
 # Testando bibliotecas
 
-Fiz esse projeto básico em React para testar o funcionamento das bibliotecas **Zustand**, **Zod** e **Hook Forms**.
+Fiz esse projeto básico em React para testar o funcionamento das bibliotecas **Zustand**, **Zod** e **Hook Forms**. 
 
 ## Considerações 
 
@@ -10,3 +10,5 @@ de um provider;
 O **Zod** é muito parecido com a biblioteca **Celebrate**.
 
 Já o **Hook Forms**, achei parecido com o **FormsReactive** do Angular.
+
+![Alt text](image.png)
